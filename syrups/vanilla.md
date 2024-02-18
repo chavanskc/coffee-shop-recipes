@@ -4,8 +4,8 @@
 
 ## Ingredients
 
-- 1 cup sugar
-- 1 cup water
+- 1 cup sugar(Local changes before Pull)
+- 1 cup water   ---
 - 1 vanilla bean (or 1 1/2 Tbsp vanilla extract)
 - A pinh of salt (main branch)
 
@@ -26,3 +26,5 @@
 ### Step 4
 
 - Store syrup in an airtight container for up to two weeks.
+
+### Local changes step 
