@@ -1,12 +1,12 @@
 # White Chocolate Mocha​
 
-## Description: Espresso meets white chocolate in this classic drink. Top it off with a dollop of whipped cream for a sweet, creamy beverage that delights with every sip and paairs with Almond Crossiant
+## Description: Espresso meets white chocolate in this classic drink. Top it off with a dollop of whipped cream for a sweet, creamy beverage that delights with every sip. Satff  Favorite
 
 ## Ingredients
 
 - 4 Tbsp white chocolate chips or chopped white chocolate
 - 1 shot Espresso Roast
-- 1 cup of whole milk milk
+- 1 cup of almond milk milk
 - Whipped cream
 
 ## How to make White Chocolate Mocha​
@@ -26,6 +26,7 @@
 ### Step 4
 
 - Froth whole milk using your preferred method.
+- Froth almond milk using your preferred method.
 
 ### Step 5
 
